@@ -1,8 +1,6 @@
-# HealthClean-AI-Platform
-AI-powered healthcare data quality platform for anomaly detection, patient deduplication, HL7 FHIR interoperability, and human-in-the-loop clinical validation.
 # 🏥 HealthClean AI Platform
 
-An enterprise-grade AI-powered healthcare data quality platform designed to improve Electronic Health Record (EHR) quality through anomaly detection, patient deduplication, explainable AI, and HL7 FHIR interoperability.
+An enterprise-grade AI-powered healthcare data quality platform designed to improve Electronic Health Record (EHR) quality through anomaly detection, patient deduplication, explainable AI, and HL7 FHIR interopAerability.
 
 ## 🚀 Features
 
